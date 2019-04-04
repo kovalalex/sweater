@@ -9,8 +9,5 @@
         <module name="sweater" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="sweater" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
